@@ -1,16 +1,31 @@
-### Hi there 👋
+## 👨‍🦱 À propos de moi 
 
-<!--
-**hakimaoudia/hakimaoudia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Actuellement étudiant en L3 Informatique à l'Université Gustave Eiffel à Champs-sur-Marne. J'ai toujours été passioné par ce domaine.
 
-Here are some ideas to get you started:
+## ⚡ Compétences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Domaine | Maîtrise |
+| ------------------------- | ------------------------- |
+| Langages de programmation | C <br> Python <br> Java <br> Javascript <br> HTML <br> CSS <br> PHP <br> SQL <br> |
+| Outils et bibliothèques   | Puppeteer <br> Windows Forms <br> OpenGL <br> Git <br> Unix <br> NodeJS <br> Jupyter Notebook |
+| Logiciels   | Photoshop <br> Illustrator <br> Blender <br> Unity <br>  |
+
+## 💼 Contact
+
+## 💻 Mes Projets
+
+|                   |                           |                Projets scolaire            |             |
+| ----------------- | ------------------------  | ------------------------   | ------------------------    |
+|                   | Licence 1                 | Licence 2                  | Licence 3                   |
+| Premier Semestre  | • Snake <br> • Bataille Navale <br> | • Base de Données Escalade <br> • Attax <br> • Chips and Virus <br> | • Analyseur lexical et syntaxique <br> • PatchWork <br> • Stealth Game <br> |
+| Deuxième Semestre | • Slitherlink <br> • Lost in Space <br> | • Arbre ternaire de recherche <br> • Voyageur de commerce <br> | • Compilateur (en cours) <br> |
+
+### Projets personnels
+
+    • Traitement de feuille Excel
+    • Scan code barre de livre
+    • Jeu 2D Plateforme
+    • Jeu 2D Vaisseau
+    • Visualizer Sherdog
+    • String Art
+    • Spotify Feat Detector
