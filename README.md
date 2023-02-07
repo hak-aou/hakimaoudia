@@ -1,6 +1,6 @@
 ## 👨‍🦱 À propos de moi 
 
-Actuellement étudiant en L3 Informatique à l'Université Gustave Eiffel à Champs-sur-Marne. J'ai toujours été passioné par ce domaine.
+Actuellement étudiant en L3 Informatique à l'Université Gustave Eiffel à Champs-sur-Marne.
 
 ## ⚡ Compétences
 
@@ -11,16 +11,26 @@ Actuellement étudiant en L3 Informatique à l'Université Gustave Eiffel à Cha
 | Logiciels   | Photoshop <br> Illustrator <br> Blender <br> Unity <br>  |
 
 ## 💼 Contact
+<p align="center">
+    <a href="mailto:hakim.aoudia@outlook.fr">
+        <img style="margin-right: 320px;" alt="mail icon" height="32px" width="32px" src="https://user-images.githubusercontent.com/106891439/217385341-4a825d4d-497d-4046-8ed8-b55b8781f778.png" />
+    </a>
+    <a href="https://www.linkedin.com/in/hakimaoudia/">
+        <img alt="linkedin icon" height="32px" width="32px" src="https://user-images.githubusercontent.com/106891439/217385349-5a1c95b9-02de-4e6b-b69a-29a704fd65a9.png">
+    </a>
+</p>
+<br>
+
 
 ## 💻 Mes Projets
+### 1. Projets scolaires
 
-|                   |                           |                Projets scolaire            |             |
-| ----------------- | ------------------------  | ------------------------   | ------------------------    |
 |                   | Licence 1                 | Licence 2                  | Licence 3                   |
+| ----------------- | ------------------------  | ------------------------   | ------------------------    |
 | Premier Semestre  | • Snake <br> • Bataille Navale <br> | • Base de Données Escalade <br> • Attax <br> • Chips and Virus <br> | • Analyseur lexical et syntaxique <br> • PatchWork <br> • Stealth Game <br> |
 | Deuxième Semestre | • Slitherlink <br> • Lost in Space <br> | • Arbre ternaire de recherche <br> • Voyageur de commerce <br> | • Compilateur (en cours) <br> |
 
-### Projets personnels
+### 2. Projets personnels
 
     • Traitement de feuille Excel
     • Scan code barre de livre
@@ -28,4 +38,4 @@ Actuellement étudiant en L3 Informatique à l'Université Gustave Eiffel à Cha
     • Jeu 2D Vaisseau
     • Visualizer Sherdog
     • String Art
-    • Spotify Feat Detector
+    • Spotify Feat Game
