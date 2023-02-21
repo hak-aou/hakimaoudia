@@ -33,7 +33,7 @@ Actuellement étudiant en L3 Informatique à l'Université Gustave Eiffel à Cha
 |                   | Licence 1                 | Licence 2                  | Licence 3                   |
 | ----------------- | :------------------------:  | :------------------------:   | :------------------------:    |
 | Premier Semestre  | • Snake <br> • Bataille Navale <br> | • Base de Données Escalade <br> • Attax <br> • Chips and Virus <br> | • Analyseur lexical et syntaxique <br> • PatchWork <br> • Stealth Game <br> |
-| Deuxième Semestre | • Slitherlink <br> • Lost in Space <br> | • Arbre ternaire de recherche <br> • Voyageur de commerce <br> | • Compilateur (en cours) <br> |
+| Deuxième Semestre | • Slitherlink <br> • Lost in Space <br> | • Correcteur orthographique <br> • Voyageur de commerce <br> | • Compilateur (en cours) <br> |
 
 ### 2. Projets personnels
 
