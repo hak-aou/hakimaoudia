@@ -27,7 +27,7 @@ Actuellement étudiant en L3 Informatique à l'Université Gustave Eiffel à Cha
 ### 2. Projet professionnel
 - Logiciel traitement de feuille Excel
 
-### 3. Projets personnel
+### 3. Projets personnels
 - Application scanner code barre de livre
 - Jeu 2D Plateforme
 - Jeu 2D Vaisseau
