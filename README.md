@@ -35,10 +35,11 @@ Actuellement étudiant en L3 Informatique à l'Université Gustave Eiffel à Cha
 | Premier Semestre  | • Snake <br> • Bataille Navale <br> | • Base de Données Escalade <br> • Attax <br> • Chips and Virus <br> | • Analyseur lexical et syntaxique <br> • PatchWork <br> • Stealth Game <br> |
 | Deuxième Semestre | • Slitherlink <br> • Lost in Space <br> | • Correcteur orthographique <br> • Voyageur de commerce <br> | • Compilateur (en cours) <br> |
 
-### 2. Projets personnels
+### 3. Projet professionel
+    • Logiciel traitement de feuille Excel
 
-    • Traitement de feuille Excel
-    • Scan code barre de livre
+### 2. Projets personnels
+    • Application scanner code barre de livre
     • Jeu 2D Plateforme
     • Jeu 2D Vaisseau
     • Visualizer Sherdog
