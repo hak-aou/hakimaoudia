@@ -15,6 +15,27 @@ Actuellement étudiant en L3 Informatique à l'Université Gustave Eiffel à Cha
 
 </div>
 
+
+## 💻 Mes Projets
+### 1. Projets scolaires
+
+|                   | Licence 1                 | Licence 2                  | Licence 3                   |
+| ----------------- | :------------------------:  | :------------------------:   | :------------------------:    |
+| Premier Semestre  | • Snake <br> • Bataille Navale <br> | • Base de Données Escalade <br> • Attax <br> • Chips and Virus <br> | • Analyseur lexical et syntaxique <br> • PatchWork <br> • Stealth Game <br> |
+| Deuxième Semestre | • Slitherlink <br> • Lost in Space <br> | • Correcteur orthographique <br> • Voyageur de commerce <br> | • Compilateur (en cours) <br> |
+
+### 2. Projet professionnel
+    • Logiciel traitement de feuille Excel
+
+### 3. Projets personnels
+    • Application scanner code barre de livre
+    • Jeu 2D Plateforme
+    • Jeu 2D Vaisseau
+    • Visualizer Sherdog
+    • String Art
+    • Spotify Feat Game
+
+
 ## 💼 Contact
 <p align="center">
     <a href="mailto:hakim.aoudia@outlook.fr">
@@ -25,23 +46,3 @@ Actuellement étudiant en L3 Informatique à l'Université Gustave Eiffel à Cha
     </a>
 </p>
 <br>
-
-
-## 💻 Mes Projets
-### 1. Projets scolaires
-
-|                   | Licence 1                 | Licence 2                  | Licence 3                   |
-| ----------------- | :------------------------:  | :------------------------:   | :------------------------:    |
-| Premier Semestre  | • Snake <br> • Bataille Navale <br> | • Base de Données Escalade <br> • Attax <br> • Chips and Virus <br> | • Analyseur lexical et syntaxique <br> • PatchWork <br> • Stealth Game <br> |
-| Deuxième Semestre | • Slitherlink <br> • Lost in Space <br> | • Correcteur orthographique <br> • Voyageur de commerce <br> | • Compilateur (en cours) <br> |
-
-### 3. Projet professionel
-    • Logiciel traitement de feuille Excel
-
-### 2. Projets personnels
-    • Application scanner code barre de livre
-    • Jeu 2D Plateforme
-    • Jeu 2D Vaisseau
-    • Visualizer Sherdog
-    • String Art
-    • Spotify Feat Game
