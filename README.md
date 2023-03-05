@@ -14,7 +14,7 @@ J'ai 20 ans et je suis actuellement étudiant en L3 Informatique à l'Universit�
 | Domaine | Maîtrise |
 | ------------------------- | ------------------------- |
 | Langages de <br> programmation | C <br> Python <br> Java <br> Javascript <br> HTML <br> CSS <br> PHP <br> SQL <br> |
-| Outils et <br> bibliothèques   | [Puppeteer](https://pptr.dev) <br> [Windows Forms](https://learn.microsoft.com/en-us/dotnet/desktop/winforms) <br> [d3js](https://d3js.org) <br> OpenGL <br> Git <br> Unix <br> NodeJS <br> Jupyter Notebook |
+| Outils et <br> bibliothèques   | [Puppeteer](https://pptr.dev) <br> [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) <br> [Windows Forms](https://learn.microsoft.com/en-us/dotnet/desktop/winforms) <br> [d3js](https://d3js.org) <br> OpenGL <br> Git <br> Unix <br> NodeJS <br> Jupyter Notebook |
 | Logiciels   | Photoshop <br> Illustrator <br> Blender <br> Unity <br>  |
 
 </div>
@@ -42,7 +42,7 @@ J'ai 20 ans et je suis actuellement étudiant en L3 Informatique à l'Universit�
 - String Art (Python)
 - Spotify Feat Game
 
-- Vente de livres (Puppeteer)
+- Vente de livres (Puppeteer + BeautifulSoup)
 
 ## 💼 Contact
 <p align="center">
