@@ -21,16 +21,16 @@ Actuellement étudiant en L3 Informatique à l'Université Gustave Eiffel à Cha
 
 |                   | Licence 1                 | Licence 2                  | Licence 3                   |
 | ----------------- | :------------------------:  | :------------------------:   | :------------------------:    |
-| Premier Semestre  | • [Snake](https://github.com/hakimaoudia/snake.git) <br> • Bataille Navale <br> | • Base de Données Escalade <br> • Attax <br> • Chips and Virus <br> | • Analyseur lexical et syntaxique <br> • PatchWork <br> • Stealth Game <br> |
-| Deuxième Semestre | • Slitherlink <br> • Lost in Space <br> | • Correcteur orthographique <br> • Voyageur de commerce <br> | • Compilateur (en cours) <br> |
+| Premier Semestre  | • [Snake](https://github.com/hakimaoudia/snake.git) <br> • [Bataille Navale](https://github.com/hakimaoudia/bataille-navale) <br> | • Base de Données Escalade <br> • [Attax](https://github.com/hakimaoudia/attaxx) <br> • [Chips and Virus](https://github.com/hakimaoudia/chips-and-virus) <br> | • [Analyseur lexical et syntaxique](https://github.com/hakimaoudia/analyseur-lexical-syntaxique) <br> • [PatchWork](https://github.com/hakimaoudia/patchwork) <br> • [Stealth Game](https://github.com/hakimaoudia/jeu-infiltration) <br> |
+| Deuxième Semestre | • [Slitherlink](https://github.com/hakimaoudia/slitherlink) <br> • Lost in Space <br> | • [Correcteur orthographique](https://github.com/hakimaoudia/correcteur-orthographique) <br> • [Voyageur de commerce](https://github.com/hakimaoudia/voyageur-de-commerce) <br> | • Compilateur (en cours) <br> |
 
 ### 2. Projet professionnel
 - Logiciel traitement de feuille Excel
 
 ### 3. Projets personnels
 - Application scanner code barre de livre
-- Jeu 2D Plateforme
-- Jeu 2D Vaisseau
+- Jeu plateforme 2D (Unity C#)
+- Jeu spaceshooter 2D (Unity C#)
 - Visualizer Sherdog
 - String Art
 - Spotify Feat Game
