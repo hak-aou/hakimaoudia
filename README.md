@@ -1,9 +1,12 @@
 ## 👨‍🦱 À propos de moi 
 
 Actuellement étudiant en L3 Informatique à l'Université Gustave Eiffel à Champs-sur-Marne.
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakimaoudia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
 <br>
 
 ## ⚡ Compétences
+
 
 <div align="center">
 
@@ -18,11 +21,14 @@ Actuellement étudiant en L3 Informatique à l'Université Gustave Eiffel à Cha
 
 ## 💻 Mes Projets
 ### 1. Projets scolaires
+<div align="center">
 
 |                   | Licence 1                 | Licence 2                  | Licence 3                   |
 | ----------------- | :------------------------:  | :------------------------:   | :------------------------:    |
 | Premier Semestre  | • [Snake](https://github.com/hakimaoudia/snake.git) <br> • [Bataille Navale](https://github.com/hakimaoudia/bataille-navale) <br> | • Base de Données Escalade <br> • [Attax](https://github.com/hakimaoudia/attaxx) <br> • [Chips and Virus](https://github.com/hakimaoudia/chips-and-virus) <br> | • [Analyseur lexical et syntaxique](https://github.com/hakimaoudia/analyseur-lexical-syntaxique) <br> • [PatchWork](https://github.com/hakimaoudia/patchwork) <br> • [Stealth Game](https://github.com/hakimaoudia/jeu-infiltration) <br> |
 | Deuxième Semestre | • [Slitherlink](https://github.com/hakimaoudia/slitherlink) <br> • Lost in Space <br> | • [Correcteur orthographique](https://github.com/hakimaoudia/correcteur-orthographique) <br> • [Voyageur de commerce](https://github.com/hakimaoudia/voyageur-de-commerce) <br> | • Compilateur (en cours) <br> |
+
+</div>
 
 ### 2. Projet professionnel
 - Logiciel traitement de feuille Excel
