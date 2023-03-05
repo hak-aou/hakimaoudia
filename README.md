@@ -1,6 +1,7 @@
 ## 👨‍🦱 À propos de moi 
 
-Actuellement étudiant en L3 Informatique à l'Université Gustave Eiffel à Champs-sur-Marne.
+J'ai 20 ans et je suis actuellement étudiant en L3 Informatique à l'Université Gustave Eiffel à Champs-sur-Marne. Voici mon github qui fait office de portfolio. Je présente mes compétences ainsi que mes divers projets que ce soient mes projets personnels, professionnels ou bien scolaires que j'ai pu réaliser durant ces 3 années de licence.
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakimaoudia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
 <br>
