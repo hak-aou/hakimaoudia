@@ -31,7 +31,7 @@ Actuellement étudiant en L3 Informatique à l'Université Gustave Eiffel à Cha
 </div>
 
 ### 2. Projet professionnel
-- Logiciel traitement de feuille Excel
+- [Logiciel traitement de feuille Excel](https://github.com/hakimaoudia/validation)
 
 ### 3. Projets personnels
 - Application scanner code barre de livre
