@@ -13,7 +13,7 @@ Actuellement étudiant en L3 Informatique à l'Université Gustave Eiffel à Cha
 | Domaine | Maîtrise |
 | ------------------------- | ------------------------- |
 | Langages de <br> programmation | C <br> Python <br> Java <br> Javascript <br> HTML <br> CSS <br> PHP <br> SQL <br> |
-| Outils et <br> bibliothèques   | Puppeteer <br> Windows Forms <br> OpenGL <br> Git <br> Unix <br> NodeJS <br> Jupyter Notebook |
+| Outils et <br> bibliothèques   | [Puppeteer](https://pptr.dev) <br> [Windows Forms](https://learn.microsoft.com/en-us/dotnet/desktop/winforms) <br> [d3js](https://d3js.org) <br> OpenGL <br> Git <br> Unix <br> NodeJS <br> Jupyter Notebook |
 | Logiciels   | Photoshop <br> Illustrator <br> Blender <br> Unity <br>  |
 
 </div>
@@ -37,10 +37,11 @@ Actuellement étudiant en L3 Informatique à l'Université Gustave Eiffel à Cha
 - Application scanner code barre de livre
 - Jeu plateforme 2D (Unity C#)
 - Jeu spaceshooter 2D (Unity C#)
-- Visualizer Sherdog
-- String Art
+- Visualizer Sherdog (Javascript d3js) 
+- String Art (Python)
 - Spotify Feat Game
 
+- Vente de livres (Puppeteer)
 
 ## 💼 Contact
 <p align="center">
