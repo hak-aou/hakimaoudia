@@ -35,11 +35,11 @@ J'ai 20 ans et je suis actuellement étudiant en L3 Informatique à l'Universit�
 - [Logiciel traitement de feuille Excel](https://github.com/hakimaoudia/validation)
 
 ### 3. Projets personnels
+- [Visualizer Sherdog](https://github.com/hakimaoudia/sherdog_visualizer) (Javascript d3js + puppeteer) 
+- String Art (Python)
 - Application scanner code barre de livre
 - Jeu plateforme 2D (Unity C#)
 - Jeu spaceshooter 2D (Unity C#)
-- Visualizer Sherdog (Javascript d3js) 
-- String Art (Python)
 - Spotify Feat Game
 
 - Vente de livres (Puppeteer + BeautifulSoup)
