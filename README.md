@@ -15,7 +15,7 @@ J'ai 20 ans et je suis actuellement étudiant en L3 Informatique à l'Universit�
 | ------------------------- | ------------------------- |
 | Langages de <br> programmation | C <br> Python <br> Java <br> Javascript <br> HTML <br> CSS <br> PHP <br> SQL <br> |
 | Outils et <br> bibliothèques   | [Puppeteer](https://pptr.dev) <br> [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) <br> [Windows Forms](https://learn.microsoft.com/en-us/dotnet/desktop/winforms) <br> [d3js](https://d3js.org) <br> OpenGL <br> Git <br> Unix <br> NodeJS <br> Jupyter Notebook |
-| Logiciels   | Photoshop <br> Illustrator <br> Blender <br> Unity <br>  |
+| Logiciels   | Photoshop <br> Illustrator <br> Blender <br> Unity <br> Android Studio <br> Visual Studio Code |
 
 </div>
 
