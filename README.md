@@ -51,8 +51,8 @@ Je suis actuellement étudiant en L3 Informatique à l'Université Gustave Eiffe
     <a href="mailto:hakim.aoudia@outlook.fr">
         <img style="margin-right: 250px;" alt="mail icon" height="32px" width="32px" src="https://user-images.githubusercontent.com/106891439/217385341-4a825d4d-497d-4046-8ed8-b55b8781f778.png" />
     </a>
-    ##<a href="https://www.linkedin.com/in/hakimaoudia/">
-    ##    <img alt="linkedin icon" height="32px" width="32px" src="https://user-images.githubusercontent.com/106891439/217385349-5a1c95b9-02de-4e6b-b69a-29a704fd65a9.png">
-    ##</a>
+    <!-- <a href="https://www.linkedin.com/in/hakimaoudia/">
+        <img alt="linkedin icon" height="32px" width="32px" src="https://user-images.githubusercontent.com/106891439/217385349-5a1c95b9-02de-4e6b-b69a-29a704fd65a9.png">
+    </a> -->
 </p>
 <br>
