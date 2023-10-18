@@ -35,14 +35,12 @@ Je suis actuellement étudiant en M1 Informatique à l'Université Gustave Eiffe
 - [Logiciel traitement de feuille Excel](https://github.com/hakimaoudia/validation)
 
 ### 3. Projets personnels
-- [Visualizer Sherdog](https://github.com/hakimaoudia/sherdog_visualizer) (Javascript d3js + NodeJS + puppeteer) 
 - String Art (Python)
 - Application scanne code barre de livre
   en récupère les informations du livre (Android Studio en Kotlin)
   grâce à une API (Non Terminée).
 - Jeu plateforme 2D (Unity C#)
 - Jeu spaceshooter 2D (Unity C#)
-- Spotify Feat Game (Python) (Non Terminée)
 
 - Vente de livres (Puppeteer + BeautifulSoup)
 
