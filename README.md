@@ -21,20 +21,20 @@ Je suis actuellement étudiant en M1 Informatique à l'Université Gustave Eiffe
 
 
 ## 💻 Mes Projets
-### 1. Projets scolaires
 <div align="center">
 
 |                   | Licence 1                 | Licence 2                  | Licence 3                   |
 | ----------------- | :------------------------:  | :------------------------:   | :------------------------:    |
 | Premier Semestre  | • [Snake](https://github.com/hakimaoudia/snake.git) <br> • [Bataille Navale](https://github.com/hakimaoudia/bataille-navale) <br> | • Base de Données Escalade <br> • [Attax](https://github.com/hakimaoudia/attaxx) <br> • [Chips and Virus](https://github.com/hakimaoudia/chips-and-virus) <br> | • [Analyseur lexical et syntaxique](https://github.com/hakimaoudia/analyseur-lexical-syntaxique) <br> • [PatchWork](https://github.com/hakimaoudia/patchwork) <br> • [Jeu infiltration](https://github.com/hakimaoudia/jeu-infiltration) <br> |
-| Deuxième Semestre | • [Slitherlink](https://github.com/hakimaoudia/slitherlink) <br> • Lost in Space <br> | • [Correcteur orthographique](https://github.com/hakimaoudia/correcteur-orthographique) <br> • [Voyageur de commerce](https://github.com/hakimaoudia/voyageur-de-commerce) <br> | • Compilateur (en cours) <br> |
+| Deuxième Semestre | • [Slitherlink](https://github.com/hakimaoudia/slitherlink) <br> • Lost in Space <br> | • [Correcteur orthographique](https://github.com/hakimaoudia/correcteur-orthographique) <br> • [Voyageur de commerce](https://github.com/hakimaoudia/voyageur-de-commerce) <br> | • Compilateur <br> |
 
 </div>
 
-### 2. Projet professionnel
 - [Logiciel traitement de feuille Excel](https://github.com/hakimaoudia/validation)
 
-### 3. Projets personnels
+### Projets personnels
+- Vente de livres grâce à Puppeteer et BeautifulSoup
+
 - String Art (Python)
 - Application scanne code barre de livre
   en récupère les informations du livre (Android Studio en Kotlin)
@@ -42,14 +42,13 @@ Je suis actuellement étudiant en M1 Informatique à l'Université Gustave Eiffe
 - Jeu plateforme 2D (Unity C#)
 - Jeu spaceshooter 2D (Unity C#)
 
-- Vente de livres (Puppeteer + BeautifulSoup)
 
 ## 💼 Contact
 <p align="center">
     <a href="mailto:hakim.aoudia@outlook.fr">
         <img style="margin-right: 250px;" alt="mail icon" height="32px" width="32px" src="https://user-images.githubusercontent.com/106891439/217385341-4a825d4d-497d-4046-8ed8-b55b8781f778.png" />
     </a>
-    <!-- <a href="https://www.linkedin.com/in/hakimaoudia/">
+    <!-- <a href="https://www.linkedin.com/in/xxx/">
         <img alt="linkedin icon" height="32px" width="32px" src="https://user-images.githubusercontent.com/106891439/217385349-5a1c95b9-02de-4e6b-b69a-29a704fd65a9.png">
     </a> -->
 </p>
