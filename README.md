@@ -34,7 +34,7 @@ Je suis actuellement étudiant en M1 Informatique à l'Université Gustave Eiffe
 
 ### Projets personnels
 - Web scraping avec Puppeteer et BeautifulSoup
-- String Art (Python)
+- Algorithme String Art avec Python
 - Application analyse le code-barre d'un livre et extrait les informations associées au livre grâce à une API  (Android Studio en Kotlin) (Non Terminée).
 - Jeu plateforme 2D (Unity C#)
 - Jeu spaceshooter 2D (Unity C#)
