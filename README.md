@@ -33,20 +33,9 @@ Je suis actuellement étudiant en M1 Informatique à l'Université Gustave Eiffe
 - [Logiciel traitement de feuille Excel](https://github.com/hakimaoudia/validation)
 
 ### Projets personnels
-- Vente de livres grâce à Puppeteer et BeautifulSoup
+- Web scraping avec Puppeteer et BeautifulSoup
 - String Art (Python)
 - Application analyse le code-barre d'un livre et extrait les informations associées au livre grâce à une API  (Android Studio en Kotlin) (Non Terminée).
 - Jeu plateforme 2D (Unity C#)
 - Jeu spaceshooter 2D (Unity C#)
-
-
-## 💼 Contact
-<p align="center">
-    <a href="mailto:hakim.aoudia@outlook.fr">
-        <img style="margin-right: 250px;" alt="mail icon" height="32px" width="32px" src="https://user-images.githubusercontent.com/106891439/217385341-4a825d4d-497d-4046-8ed8-b55b8781f778.png" />
-    </a>
-    <!-- <a href="https://www.linkedin.com/in/xxx/">
-        <img alt="linkedin icon" height="32px" width="32px" src="https://user-images.githubusercontent.com/106891439/217385349-5a1c95b9-02de-4e6b-b69a-29a704fd65a9.png">
-    </a> -->
-</p>
 <br>
