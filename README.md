@@ -11,7 +11,7 @@ Je suis actuellement étudiant en M2 Informatique à l'Université Gustave Eiffe
 
 | Domaine                     | Maîtrise                                                                                       |
 |----------------------------|-------------------------------------------------------------------------------------------------|
-| Langages de programmation  | Java 21 <br> C# <br> C <br> Python <br> JavaScript                                               |
+| Langages de programmation  | Java 21 <br> C# <br> C++ <br> C <br> Python <br> JavaScript                                               |
 | Base de données            | SQL Server <br> PostgreSQL <br> MongoDB <br> H2                                                 |
 | Architecture logicielle    | Design pattern <br> MVC <br> Architecture RESTful                                              |
 | DevOps                     | Git <br> Docker <br> Ansible                                                                    |
@@ -23,13 +23,15 @@ Je suis actuellement étudiant en M2 Informatique à l'Université Gustave Eiffe
 
 
 ## 💻 Mes Projets
+
+### Projets académiques
+
 <div align="center">
   
-### Projets académiques
-|                   | Licence 1                 | Licence 2                  | Licence 3                   | Master 1                             | Master 2                                              |
+|                   | Licence 1                 | Licence 2                  | Licence 3                   | Master 1 (dépôts en cours d'ajout)                             | Master 2 (dépôts en cours d'ajout)                                              |
 | ----------------- | :------------------------:| :-------------------------:| :--------------------------:| :-----------------------------------:| :---------------------------------------------------:|
-| Premier Semestre  | • [Snake](https://github.com/hakimaoudia/snake.git) <br> • [Bataille Navale](https://github.com/hakimaoudia/bataille-navale) <br> | • BDD Escalade <br> • [Attax](https://github.com/hakimaoudia/attaxx) <br> • [Chips & Virus](https://github.com/hakimaoudia/chips-and-virus) <br> | • [Analyseur Lex/Syn](https://github.com/hakimaoudia/analyseur-lexical-syntaxique) <br> • [PatchWork](https://github.com/hakimaoudia/patchwork) <br> • [Jeu d'infiltration](https://github.com/hakimaoudia/jeu-infiltration) <br> | • GitClout : stats dépôt Git <br> • Modèle d'IA : accidents en France | • API : DeSaison <br> • Data-Science : Analyse données médicales |
-| Deuxième Semestre | • [Slitherlink](https://github.com/hakimaoudia/slitherlink) <br> • Lost in Space <br> | • [Correcteur](https://github.com/hakimaoudia/correcteur-orthographique) <br> • [TSP](https://github.com/hakimaoudia/voyageur-de-commerce) <br> | • Compilateur <br> | • Shadow : transfert fichier réseau <br> • Jeu The Light Corridor <br> • Traitement d'images : Flou de profondeur | • Réseau social Booqin <br> • App Jetpack Compose Booqin |
+| Premier Semestre  |• [Snake](https://github.com/hakimaoudia/snake.git) <br>• [Bataille Navale](https://github.com/hakimaoudia/bataille-navale) <br> |• BDD Escalade <br>• [Attax](https://github.com/hakimaoudia/attaxx) <br>• [Chips & Virus](https://github.com/hakimaoudia/chips-and-virus) <br> |• [Analyseur Lex/Syn](https://github.com/hakimaoudia/analyseur-lexical-syntaxique) <br>• [PatchWork](https://github.com/hakimaoudia/patchwork) <br>• [Jeu d'infiltration](https://github.com/hakimaoudia/jeu-infiltration) <br> |• GitClout : stats dépôt Git <br>• Modèle d'IA : accidents en France |• API : DeSaison <br>• Data-Science : Analyse données médicales |
+| Deuxième Semestre |• [Slitherlink](https://github.com/hakimaoudia/slitherlink) <br>• Lost in Space <br> |• [Correcteur](https://github.com/hakimaoudia/correcteur-orthographique) <br>• [TSP](https://github.com/hakimaoudia/voyageur-de-commerce) <br> |• Compilateur <br> |• Shadow : transfert fichier réseau <br>• Jeu The Light Corridor <br>• Traitement d'images : Flou de profondeur |• Réseau social Booqin <br>• Application Booqin |
 
 </div>
 
