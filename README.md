@@ -28,16 +28,16 @@ Je suis actuellement étudiant en M2 Informatique à l'Université Gustave Eiffe
 
 <div align="center">
   
-|                   | Licence 1                 | Licence 2                  | Licence 3                   | Master 1 (dépôts en cours d'ajout)                             | Master 2 (dépôts en cours d'ajout)                                              |
+|                   | Licence 1                 | Licence 2                  | Licence 3       hakimaoudia            | Master 1 (dépôts en cours d'ajout)                             | Master 2 (dépôts en cours d'ajout)                                              |
 | ----------------- | :------------------------:| :-------------------------:| :--------------------------:| :-----------------------------------:| :---------------------------------------------------:|
-| Premier Semestre  |• [Snake](https://github.com/hakimaoudia/snake.git) <br>• [Bataille Navale](https://github.com/hakimaoudia/bataille-navale) <br> |• BDD Escalade <br>• [Attax](https://github.com/hakimaoudia/attaxx) <br>• [Chips & Virus](https://github.com/hakimaoudia/chips-and-virus) <br> |• [Analyseur Lex/Syn](https://github.com/hakimaoudia/analyseur-lexical-syntaxique) <br>• [PatchWork](https://github.com/hakimaoudia/patchwork) <br>• [Jeu d'infiltration](https://github.com/hakimaoudia/jeu-infiltration) <br> |• GitClout : stats dépôt Git <br>• Modèle d'IA : accidents en France |• API : DeSaison <br>• Data-Science : Analyse données médicales |
-| Deuxième Semestre |• [Slitherlink](https://github.com/hakimaoudia/slitherlink) <br>• Lost in Space <br> |• [Correcteur](https://github.com/hakimaoudia/correcteur-orthographique) <br>• [TSP](https://github.com/hakimaoudia/voyageur-de-commerce) <br> |• Compilateur <br> |• Shadow : transfert fichier réseau <br>• Jeu The Light Corridor <br>• Traitement d'images : Flou de profondeur |• Réseau social Booqin <br>• Application Booqin |
+| Premier Semestre  |• [Snake](https://github.com/hak-aou/snake.git) <br>• [Bataille Navale](https://github.com/hak-aou/bataille-navale) <br> |• BDD Escalade <br>• [Attax](https://github.com/hak-aou/attaxx) <br>• [Chips & Virus](https://github.com/hak-aou/chips-and-virus) <br> |• [Analyseur Lex/Syn](https://github.com/hak-aou/analyseur-lexical-syntaxique) <br>• [PatchWork](https://github.com/hak-aou/patchwork) <br>• [Jeu d'infiltration](https://github.com/hak-aou/jeu-infiltration) <br> |• GitClout : stats dépôt Git <br>• Modèle d'IA : accidents en France |• API : DeSaison <br>• Data-Science : Analyse données médicales |
+| Deuxième Semestre |• [Slitherlink](https://github.com/hak-aou/slitherlink) <br>• Lost in Space <br> |• [Correcteur](https://github.com/hak-aou/correcteur-orthographique) <br>• [TSP](https://github.com/hak-aou/voyageur-de-commerce) <br> |• Compilateur <br> |• [Shadow : transfert fichier réseau](https://github.com/hak-aou/chadow)<br>• Jeu The Light Corridor <br>• Traitement d'images : Flou de profondeur |• [Réseau social Booqin](https://github.com/hak-aou/booqin) <br>• Application Booqin |
 
 </div>
 
 ### Projets professionnels
 
-- [Logiciel traitement de feuille Excel](https://github.com/hakimaoudia/validation)
+- [Logiciel traitement de feuille Excel](https://github.com/hak-aou/validation)
 
 ### Projets personnels
 - Web scraping avec Puppeteer et BeautifulSoup
